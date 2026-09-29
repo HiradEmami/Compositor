@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-09-29T10:07:56+00:00",
+  "purpose": "Immutable initial Pelagion takeover source baseline",
+  "feature_branch": "feat/init-pelagion-takeover",
+  "upstream": {
+    "repository": {
+      "id": 1373614120,
+      "node_id": "R_kgDOUd-wKA",
+      "name": "Compositor",
+      "full_name": "robbietilton/Compositor",
+      "html_url": "https://github.com/robbietilton/Compositor",
+      "clone_url": "https://github.com/robbietilton/Compositor.git",
+      "default_branch": "main",
+      "created_at": "2026-09-16T20:35:54Z",
+      "updated_at": "2026-09-29T09:50:51Z",
+      "pushed_at": "2026-09-29T05:21:07Z",
+      "fork": false,
+      "private": false,
+      "size": 4811
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "3b50e5d4e16bd70f5209bdbc3551c2715906a54a",
+      "tree_sha": "4fc9a3237061b580c3976a8773a6776fedabbc26",
+      "author_timestamp": "2026-09-28T22:21:06-07:00",
+      "committer_timestamp": "2026-09-28T22:21:06-07:00",
+      "subject": "Publish update feed for Compositor 1.4.1",
+      "reachable_commit_count": 327,
+      "exact_tags": [],
+      "describe": "v1.4.1-1-g3b50e5d",
+      "declared_versions": {}
+    }
+  },
+  "fork": {
+    "repository": {
+      "id": 1394868563,
+      "node_id": "R_kgDOUyQBUw",
+      "name": "Compositor",
+      "full_name": "HiradEmami/Compositor",
+      "html_url": "https://github.com/HiradEmami/Compositor",
+      "clone_url": "https://github.com/HiradEmami/Compositor.git",
+      "default_branch": "main",
+      "created_at": "2026-09-29T09:54:52Z",
+      "updated_at": "2026-09-29T09:54:53Z",
+      "pushed_at": "2026-09-29T05:21:07Z",
+      "fork": true,
+      "private": false,
+      "size": 4811
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "3b50e5d4e16bd70f5209bdbc3551c2715906a54a",
+      "tree_sha": "4fc9a3237061b580c3976a8773a6776fedabbc26",
+      "author_timestamp": "2026-09-28T22:21:06-07:00",
+      "committer_timestamp": "2026-09-28T22:21:06-07:00",
+      "subject": "Publish update feed for Compositor 1.4.1",
+      "reachable_commit_count": 327,
+      "exact_tags": [],
+      "describe": "v1.4.1-1-g3b50e5d",
+      "declared_versions": {}
+    },
+    "previous_remote_commit": "3b50e5d4e16bd70f5209bdbc3551c2715906a54a"
+  },
+  "network_source": {
+    "id": 1373614120,
+    "node_id": "R_kgDOUd-wKA",
+    "name": "Compositor",
+    "full_name": "robbietilton/Compositor",
+    "html_url": "https://github.com/robbietilton/Compositor",
+    "clone_url": "https://github.com/robbietilton/Compositor.git",
+    "default_branch": "main",
+    "created_at": "2026-09-16T20:35:54Z",
+    "updated_at": "2026-09-29T09:50:51Z",
+    "pushed_at": "2026-09-29T05:21:07Z",
+    "fork": false,
+    "private": false,
+    "size": 4811
+  },
+  "feature_base_commit": "3b50e5d4e16bd70f5209bdbc3551c2715906a54a",
+  "source_observed_at_utc": "2026-09-29T10:01:36+00:00",
+  "historical_fork_creation_commit": null,
+  "notes": [
+    "The GitHub repository ID and node ID identify each repository, not a commit.",
+    "Reachable commit count is a history count, not a release number. Exact tags and declared package versions may be absent.",
+    "GitHub creation timestamps do not establish the original fork-creation commit.",
+    "This baseline does not update automatically after later merges. Git history preserves subsequent edits.",
+    "The feature commit containing this file is recorded in Git history; it cannot contain its own hash."
+  ]
+}
